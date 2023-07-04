@@ -1,0 +1,49 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    }
+
+    .navbar {
+    background-color: black;
+    }
+
+    .navbar-brand {
+    font-weight: bold;
+    }
+
+    .jumbotron {
+    background-color: black;
+    padding: 80px;
+    margin-bottom: 0;
+    }
+
+    .jumbotron h1 {
+    color: #333;
+    font-size: 40px;
+    margin-bottom: 20px;
+    }
+
+    .jumbotron p {
+    color: #555;
+    font-size: 20px;
+    }
+
+    .container {
+    margin-top: 40px;
+    }
+
+    .container h2 {
+    color: #333;
+    font-size: 30px;
+    margin-bottom: 20px;
+    }
+
+    .container p {
+    margin-bottom: 20px;
+    }
+
+    footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    }
